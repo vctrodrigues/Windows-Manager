@@ -1,0 +1,7 @@
+/Users/victorvieira/UFRN/LPI/prova/build/CMakeFiles/install/local.dir
+/Users/victorvieira/UFRN/LPI/prova/build/CMakeFiles/install/strip.dir
+/Users/victorvieira/UFRN/LPI/prova/build/CMakeFiles/install.dir
+/Users/victorvieira/UFRN/LPI/prova/build/CMakeFiles/WindowManager.dir
+/Users/victorvieira/UFRN/LPI/prova/build/CMakeFiles/list_install_components.dir
+/Users/victorvieira/UFRN/LPI/prova/build/CMakeFiles/rebuild_cache.dir
+/Users/victorvieira/UFRN/LPI/prova/build/CMakeFiles/edit_cache.dir
